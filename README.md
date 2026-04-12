@@ -29,7 +29,7 @@ The data is sourced directly from the official public datasets provided by the P
   * **PKSN:** Snow cover depth [cm]
   * **WPKSN:** PKSN measurement status
 * **Status Flags:** The data includes specific status codes where **"8"** indicates a missing measurement and **"9"** indicates the absence of a phenomenon.
-* **Visualization & Smoothing:** The project generates a direct plot of the raw data (spaghetti plot) and applies a **3rd-degree polynomial approximation** to model the seasonal temperature curves for each year.
+* **Visualization & Smoothing:** The project generates a direct plot of the raw data and applies a **3rd-degree polynomial approximation** to model the seasonal temperature curves for each year.
 
 ## Example Operation
 
