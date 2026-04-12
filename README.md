@@ -5,7 +5,7 @@
 This project focuses on parsing, processing, and visualizing historical meteorological data to analyze climate trends. Specifically, a MATLAB script extracts and processes the average daily temperatures over a 14-year period (2010 - 2023) for the **KRAKÓW-OBSERWATORIUM** weather station. 
 
 The data is sourced directly from the official public datasets provided by the Polish Institute of Meteorology and Water Management (IMGW).
-**Data Source:** [IMGW Public Data - Daily Climatology](https://danepubliczne.imgw.pl/data/dane_pomiarowo_obserwacyjne/dane_meteorologiczne/dobowe/klimat/).
+**Data Source:** [IMGW Public Data - Daily Climatology](https://danepubliczne.imgw.pl/data/dane_pomiarowo_obserwacyjne/dane_meteorologiczne/dobowe/klimat/)
 
 **Key Characteristics:**
 * **Data Parsing:** The script iterates through 14 years of monthly `.csv` files, dynamically filtering out thousands of records to isolate the data specifically for the Krakow Observatory.
